@@ -1,1 +1,7 @@
-{ "allowed": ["mohamed77097726"], "allowedIds": [2581838079] }
+{
+  "Users": [
+    "mohamed77097726",
+    "PlayerName2",
+    "PlayerName3"
+  ]
+}
